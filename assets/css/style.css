@@ -10,6 +10,12 @@ a {
   text-decoration: none;
   transition: 0.5s;
 }
+   @font-face {
+    font-family: 'Edo';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Edo'), url('edo.woff') format('woff');
+    }
 
 a:hover, a:active, a:focus {
   color: #f8234a;
