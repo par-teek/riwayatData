@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Heebo:400,700|Open+Sans:400,700');
 
 :root {
-  --color: #3c3163;
+  --color: #ffffff;
   --transition-time: 0.5s;
 }
 
@@ -13,7 +13,7 @@ body {
   margin: 0;
   min-height: 100vh;
   font-family: 'Open Sans';
-  background: #fafafa;
+  background: #ffffff;
 }
 
 a {
@@ -38,7 +38,7 @@ a {
   height: 20em;
   width: 15em;
   font-size: 1.5em;
-  color: white;
+  color: rgb(255, 255, 255);
   border-radius: 1em;
   padding: 1em;
   /*margin: 2em;*/
@@ -62,6 +62,7 @@ a {
   margin: 0;
   font-size: 1.5em;
   line-height: 1.2em;
+  color: #adefd1;
 }
 
 .card p {
@@ -77,7 +78,7 @@ a {
 
 .card .tags .tag {
   font-size: 0.75em;
-  background: rgba(255,255,255,0.5);
+  background: #030113;
   border-radius: 0.3rem;
   padding: 0 0.5em;
   margin-right: 0.5em;
@@ -86,8 +87,8 @@ a {
 }
 
 .card:hover .tags .tag {
-  background: var(--color);
-  color: white;
+  background: #f82140;
+  color: #030113;
 }
 
 .card .date {
@@ -114,13 +115,13 @@ a {
 }
 
 .card:before {
-  background: #ddd;
+  background: #f82140;
   width: 250%;
   height: 250%;
 }
 
 .card:after {
-  background: white;
+  background: #040919;
   width: 200%;
   height: 200%;
 }
