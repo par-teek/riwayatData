@@ -10,12 +10,6 @@ a {
   text-decoration: none;
   transition: 0.5s;
 }
-   @font-face {
-    font-family: 'Edo';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Edo'), url('edo.woff') format('woff');
-    }
 
 a:hover, a:active, a:focus {
   color: #f8234a;
@@ -29,7 +23,7 @@ p {
   margin: 0 0 30px 0;
 }
 
- h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
@@ -51,11 +45,6 @@ p {
   height: 100%;
   overflow: visible;
   background: #fff url("../img/preloader.svg") no-repeat center center;
-}
-@font-face {
-  font-family: edosz ;
-  src: url(../fonts/edosz.ttf);
-  
 }
 
 /*--------------------------------------------------------------
@@ -170,12 +159,12 @@ p {
 #header #logo img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+  max-height: 70px;
 }
 
 @media (max-width: 992px) {
   #header #logo img {
-    max-height: 30px;
+    max-height: 70px;
   }
 }
 
@@ -396,6 +385,11 @@ p {
 .navbar-mobile > ul > li {
   padding: 0;
 }
+@font-face {
+  font-family: edosz ;
+  src: url(../fonts/edosz.ttf);
+  
+}
 
 .navbar-mobile a:hover:before, .navbar-mobile li:hover > a:before, .navbar-mobile .active:before {
   visibility: hidden;
@@ -509,7 +503,7 @@ p {
 
 @media (max-width: 991px) {
   #hero h1 {
-    font-size: 55px;
+    font-size: 34px;
   }
 }
 
@@ -831,6 +825,12 @@ p {
     margin-top: 10px;
   }
 }
+@font-face {
+  font-family: 'Edo';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Edo'), url('edo.woff') format('woff');
+  }
 @media (max-width: 1201px) {
   #schedule .nav-tabs a {
     padding: 8px 60px;
