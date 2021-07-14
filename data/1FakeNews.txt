@@ -5,105 +5,105 @@
             "Aryavarta",
             "Hall 2",
             "Raaghav Arya",
-            "28"
+            "96"
         ],
         [
             "2",
             "Whatever",
             "Hall 12",
-            "Pradhyumna Lavania",
-            "27.5"
+            "Pradhyumna, Shreyansh, Parth, Harsh",
+            "94"
         ],
         [
             "3",
             "Agonizing Aunts",
             "Hall 6",
-            "Kshipra Motikar",
-            "24.5"
+            "Kshipra, Shruti, Vaishali, Vidhi",
+            "90"
         ],
         [
             "4",
-            "Individual",
+            "Sa-TIRED",
             "Hall 2",
-            "Parth Bhatt",
-            "18"
+            "Parth, Yash, Gaurav, Anshul",
+            "78"
         ],
         [
             "5",
-            "Individual",
+            "Koalified Bears",
             "Hall 6",
-            "Deepanshi Maheshwari",
-            "17.5"
+            "Deepanshi, Shivangi, Tulika",
+            "76"
         ],
         [
             "6",
-            "Individual",
+            "Clickbait and Switch",
             "Hall 2",
-            "Aayush Kumar",
-            "17.5"
+            "Aayush, Varun, Parikshit, Akshay",
+            "76"
         ],
         [
             "7",
-            "Individual",
+            "3 Broke Girls",
             "Hall 6",
-            "Gitika Mittal",
-            "17.5"
+            "Gitika, Akanksha, Shreya",
+            "76"
         ],
         [
             "8",
-            "Individual",
+            "Hall-2 OP",
             "Hall 2",
             "Udvas Basak",
-            "16"
+            "73"
         ],
         [
             "9",
-            "Individual",
+            "Preshya",
             "Hall 5",
-            "Eshan Nayak",
-            "15"
+            "Eshan, Priyanshu, Aditya",
+            "70"
         ],
         [
             "10",
-            "Individual",
+            "The Pen Fighters",
             "Hall 2",
-            "Naman Jain",
-            "14"
+            "Naman, Divyansh, Anup, Aditya",
+            "68"
         ],
         [
             "11",
-            "Individual",
+            "Solitary Soul",
             "Hall 3",
             "Apurb Agarwal",
-            "14"
+            "68"
         ],
         [
             "12",
-            "Individual",
+            "Valkyries",
             "Hall 6",
-            "Divyani Gaur",
-            "11"
+            "Divyani, Shubhankari, Divya M, Faiza",
+            "60"
         ],
         [
             "13",
-            "Individual",
+            "Sunlerghutta",
             "Hall 6",
-            "Shruti Kumari",
-            "10"
+            "Shruti, Nidhi, Shefali, Purva",
+            "57"
         ],
         [
             "14",
-            "Individual",
+            "The Sarcastic Guys",
             "Hall 3",
-            "Rudraksh Kansal",
-            "6.5"
+            "Rudraksh Kansal, Arnav Pandeya",
+            "51"
         ],
         [
             "15",
-            "Individual",
+            "Vaishanav",
             "Hall 12",
             "Vishal Garg",
-            "4"
+            "46"
         ]
     ]
 }
