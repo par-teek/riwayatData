@@ -1,11 +1,46 @@
 {
-  "data": [
-    [
-      "0",
-      "IIT Kanpur",
-      "Hall 14",
-      "Vedaant Sikka",
-      "0"
+    "data": [
+        [
+            "1",
+            "Battle Buddies",
+            "Hall 2",
+            "Dhesingu"
+        ],
+        [
+            "2",
+            "Hoodlums and Saints",
+            "Hall 5",
+            "Akhil Jain"
+        ],
+        [
+            "3",
+            "The visionaries",
+            "Hall 3",
+            "prem gujrathi"
+        ],
+        [
+            "4",
+            "Nitizens",
+            "Hall 6",
+            "Divyanshi Shukla"
+        ],
+        [
+            "5",
+            "Petrichor",
+            "Hall 6",
+            "Faiza Khan"
+        ],
+        [
+            "6",
+            "Team Chhole Bhature",
+            "Hall 12",
+            "Abhishek Bansod"
+        ],
+        [
+            "7",
+            "PHY103@chill#hai",
+            "Hall 2",
+            "Arka Roy"
+        ]
     ]
-  ]
 }

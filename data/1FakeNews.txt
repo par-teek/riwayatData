@@ -1,11 +1,109 @@
 {
-  "data": [
-    [
-      "0",
-      "IIT Kanpur",
-      "Hall 14",
-      "Vedaant Sikka",
-      "0"
+    "data": [
+        [
+            "1",
+            "Aryavarta",
+            "Hall 2",
+            "Raaghav Arya",
+            "28"
+        ],
+        [
+            "2",
+            "Whatever",
+            "Hall 12",
+            "Pradhyumna Lavania",
+            "27.5"
+        ],
+        [
+            "3",
+            "Agonizing Aunts",
+            "Hall 6",
+            "Kshipra Motikar",
+            "24.5"
+        ],
+        [
+            "4",
+            "Individual",
+            "Hall 2",
+            "Parth Bhatt",
+            "18"
+        ],
+        [
+            "5",
+            "Individual",
+            "Hall 6",
+            "Deepanshi Maheshwari",
+            "17.5"
+        ],
+        [
+            "6",
+            "Individual",
+            "Hall 2",
+            "Aayush Kumar",
+            "17.5"
+        ],
+        [
+            "7",
+            "Individual",
+            "Hall 6",
+            "Gitika Mittal",
+            "17.5"
+        ],
+        [
+            "8",
+            "Individual",
+            "Hall 2",
+            "Udvas Basak",
+            "16"
+        ],
+        [
+            "9",
+            "Individual",
+            "Hall 5",
+            "Eshan Nayak",
+            "15"
+        ],
+        [
+            "10",
+            "Individual",
+            "Hall 2",
+            "Naman Jain",
+            "14"
+        ],
+        [
+            "11",
+            "Individual",
+            "Hall 3",
+            "Apurb Agarwal",
+            "14"
+        ],
+        [
+            "12",
+            "Individual",
+            "Hall 6",
+            "Divyani Gaur",
+            "11"
+        ],
+        [
+            "13",
+            "Individual",
+            "Hall 6",
+            "Shruti Kumari",
+            "10"
+        ],
+        [
+            "14",
+            "Individual",
+            "Hall 3",
+            "Rudraksh Kansal",
+            "6.5"
+        ],
+        [
+            "15",
+            "Individual",
+            "Hall 12",
+            "Vishal Garg",
+            "4"
+        ]
     ]
-  ]
 }
