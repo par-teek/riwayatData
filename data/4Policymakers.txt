@@ -16,7 +16,7 @@
             "3",
             "The visionaries",
             "Hall 3",
-            "prem gujrathi"
+            "Prem Gujrathi"
         ],
         [
             "4",
