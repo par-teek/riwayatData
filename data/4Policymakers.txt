@@ -2,45 +2,52 @@
     "data": [
         [
             "1",
-            "Battle Buddies",
-            "Hall 2",
-            "Dhesingu"
+            "Hoodlums and Saints",
+            "Hall 5",
+            "Akhil Jain",
+            "67.3"
         ],
         [
             "2",
-            "Hoodlums and Saints",
-            "Hall 5",
-            "Akhil Jain"
+            "Nitizens",
+            "Hall 6",
+            "Divyanshi Shukla",
+            "60.4"
         ],
         [
             "3",
-            "The visionaries",
-            "Hall 3",
-            "Prem Gujrathi"
+            "Team Chhole Bhature",
+            "Hall 12",
+            "Abhishek Bansod",
+            "59.1"
         ],
         [
             "4",
-            "Nitizens",
-            "Hall 6",
-            "Divyanshi Shukla"
+            "The visionaries ",
+            "Hall 3",
+            "prem gujrathi ",
+            "57.6"
         ],
         [
             "5",
             "Petrichor",
             "Hall 6",
-            "Faiza Khan"
+            "Faiza Khan",
+            "56.2"
         ],
         [
             "6",
-            "Team Chhole Bhature",
-            "Hall 12",
-            "Abhishek Bansod"
+            "PHY103@chill#hai",
+            "Hall 2",
+            "Arka Roy",
+            "53.9"
         ],
         [
             "7",
-            "PHY103@chill#hai",
+            "Battle Buddies",
             "Hall 2",
-            "Arka Roy"
+            "Dhesingu",
+            "48.8"
         ]
     ]
 }
