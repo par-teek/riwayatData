@@ -1,11 +1,116 @@
 {
-  "data": [
-    [
-      "0",
-      "IIT Kanpur",
-      "Hall 14",
-      "Vedaant Sikka",
-      "0"
+    "data": [
+        [
+            "1",
+            "Sanmati Pande",
+            "200870",
+            "Hall 6",
+            "590"
+        ],
+        [
+            "2",
+            "Payal Singh",
+            "200682",
+            "Hall 6",
+            "416"
+        ],
+        [
+            "3",
+            "Deepanshi Maheshwari",
+            "200311",
+            "Hall 6",
+            "289"
+        ],
+        [
+            "4",
+            "Aishwarya",
+            "200064",
+            "Hall 6",
+            "287"
+        ],
+        [
+            "5",
+            "Anshu Kumari",
+            "200151",
+            "Hall 6",
+            "231"
+        ],
+        [
+            "6",
+            "Divyanshi Shukla",
+            "200354",
+            "Hall 6",
+            "226"
+        ],
+        [
+            "7",
+            "Arushi Garg",
+            "200193",
+            "Hall 6",
+            "219"
+        ],
+        [
+            "8",
+            "Parth Bhatt",
+            "200669",
+            "Hall 2",
+            "202"
+        ],
+        [
+            "9",
+            "Sumedha",
+            "201014",
+            "Hall 6",
+            "163"
+        ],
+        [
+            "10",
+            "Raaghav Arya",
+            "200745",
+            "Hall 2",
+            "144"
+        ],
+        [
+            "11",
+            "Shruti Kumari",
+            "200960",
+            "Hall 6",
+            "134"
+        ],
+        [
+            "12",
+            "Anuradha Singh",
+            "200169",
+            "Hall 6",
+            "125"
+        ],
+        [
+            "13",
+            "Baishali Das",
+            "200261",
+            "Hall 6",
+            "101"
+        ],
+        [
+            "14",
+            "Aarchie",
+            "200004",
+            "Hall 6",
+            "51"
+        ],
+        [
+            "15",
+            "Rijin Rajan",
+            "20101283",
+            "PG Y20",
+            "50"
+        ],
+        [
+            "16",
+            "Upman Meena",
+            "201064",
+            "Hall 5",
+            "43"
+        ]
     ]
-  ]
 }
