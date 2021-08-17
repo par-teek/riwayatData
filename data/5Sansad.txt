@@ -1,11 +1,81 @@
 {
-  "data": [
-    [
-      "0",
-      "IIT Kanpur",
-      "Hall 14",
-      "Vedaant Sikka",
-      "0"
+    "data": [
+        [
+            "1",
+            "Parteek",
+            "Aujla, Shri Gurjeet Singh",
+            "Hall 5",
+            "66.66666667"
+        ],
+        [
+            "2",
+            "Prem Milind Gujrathi",
+            "Tharoor, Dr. Shashi",
+            "Hall 3",
+            "64.25"
+        ],
+        [
+            "2",
+            "Arka Roy",
+            "Chidambaram, Shri Karti P.",
+            "Hall 2",
+            "64.25"
+        ],
+        [
+            "4",
+            "Sudhanshu Kumar",
+            "Chellakumar, Dr. A.",
+            "Hall 2",
+            "63.5"
+        ],
+        [
+            "5",
+            "Alok Kumar Mishra",
+            "Tewari, Shri Manish",
+            "Hall 5",
+            "60.58333333"
+        ],
+        [
+            "6",
+            "Shivam Rai",
+            "Pashu Pati Kumar Paras",
+            "PG Y20",
+            "59.41666667"
+        ],
+        [
+            "7",
+            "Anaavi Alok",
+            "Smriti Irani",
+            "Hall 6",
+            "59.16666667"
+        ],
+        [
+            "8",
+            "Shubhankari Rai",
+            "Bhupendra Yadav",
+            "Hall 6",
+            "56.5"
+        ],
+        [
+            "9",
+            "Sanidhya Agrawal",
+            "Gandhi, Shri Rahul",
+            "Hall 3",
+            "56"
+        ],
+        [
+            "10",
+            "Yash Jahagirdar",
+            "Mukhtar Abbas Naqvi",
+            "Hall 2",
+            "53.41666667"
+        ],
+        [
+            "11",
+            "Prakhyat Chalotra",
+            "Shri Anto Antony",
+            "Hall 12",
+            "48"
+        ]
     ]
-  ]
 }
